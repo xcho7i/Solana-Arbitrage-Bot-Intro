@@ -123,3 +123,26 @@ All transactions are verifiable on-chain via Solscan links provided above.
 
 **Last Updated:** 2025  
 **Status:** Active Development
+
+## 🔑 Keywords
+
+- Solana Arbitrage Bot  
+- Solana Arb Bot  
+- Solana Trading Bot  
+- DEX Arbitrage  
+- MEV Bot  
+- Crypto Arbitrage  
+- Flash Loan Arbitrage  
+- Automated Trading Bot  
+- Crypto Trading Strategy  
+- On-chain Arbitrage  
+- Serum Arbitrage  
+- Raydium Arbitrage  
+- Solana DeFi Bot  
+- High-Frequency Trading (HFT)  
+- Market Making Bot  
+- Real-Time Arbitrage Scanner  
+- Smart Contract Arbitrage  
+- Profit Finder  
+- Cross-DEX Arbitrage  
+- Blockchain Trading Automation
