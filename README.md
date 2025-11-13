@@ -31,7 +31,7 @@ A verified arbitrage transaction on Solana demonstrates the profit potential:
 
 **Main Wallet:** [https://solscan.io/account/2d9CGsG2SnDveJkdszyepjMyQh64pQiFgLFXR7kmZYQo?page=59#defiactivities](https://solscan.io/account/2d9CGsG2SnDveJkdszyepjMyQh64pQiFgLFXR7kmZYQo?page=59#defiactivities)
 
-**Additional Wallet:** [https://solscan.io/account/CEEXTqHaqbVriXoW4uvdaPShkMaHg9AWnFXLS1nS887C?page=1#defiactivities](https://solscan.io/account/CEEXTqHaqbVriXoW4uvdaPShkMaHg9AWnFXLS1nS887C?page=1#defiactivities)
+**Target Wallet:** [https://solscan.io/account/CEEXTqHaqbVriXoW4uvdaPShkMaHg9AWnFXLS1nS887C?page=1#defiactivities](https://solscan.io/account/CEEXTqHaqbVriXoW4uvdaPShkMaHg9AWnFXLS1nS887C?page=1#defiactivities)
 
 ---
 
