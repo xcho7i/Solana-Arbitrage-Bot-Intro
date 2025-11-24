@@ -107,8 +107,8 @@ All transactions are verifiable on-chain via Solscan links provided above.
 
 **Contact:** For investment inquiries, please reach out via:
 
-- **Discord:** [@dev_ferris](https://discordapp.com/users/659014195592822845)
-- **Telegram:** [@dev_ferris](https://t.me/dev_ferris)
+- **Discord:** [@xcho7i](https://discordapp.com/users/1440824824896163883)
+- **Telegram:** [@xcho7i](https://t.me/xcho7i)
 
 ---
 
